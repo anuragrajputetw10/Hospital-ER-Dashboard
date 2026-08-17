@@ -30,7 +30,7 @@ Admission rates skew toward on-time processing (57%) but delays (43%) remain sig
 
 ## 🖼️ Preview
 
-![Dashboard Overview](screenshots/dashboard-overview.png)
+Hospital-ER-Dashboard screenshot.png
 
 ---
 📫 Questions or feedback? Reach me at anuragrajputetw@gmail.com
